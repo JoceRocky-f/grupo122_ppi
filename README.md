@@ -1,4 +1,5 @@
-# trata de un personaje que se escapa de la carcel y va robando por la ciudad mientras escapa de un policia,si se deja alcanzar por el policia pierde,al inicio del juego los usuarios tendran la posibilidad de elegir si jugar como ladrón o como policía. Si el usuario eligue ser policia este debera perseguir al ladron hasta atraparlo, si elige ser ladrón tendra que huir de el policia, en los dos casos si el policia atrapa el ladron el juego inmediatamente se termina. 
+# Descripción 
+ trata de un personaje que se escapa de la carcel y va robando por la ciudad mientras escapa de un policia,si se deja alcanzar por el policia pierde,al inicio del juego los usuarios tendran la posibilidad de elegir si jugar como ladrón o como policía. Si el usuario eligue ser policia este debera perseguir al ladron hasta atraparlo, si elige ser ladrón tendra que huir de el policia, en los dos casos si el policia atrapa el ladron el juego inmediatamente se termina. 
 
 
 # dinamicas del juego 
